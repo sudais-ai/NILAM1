@@ -1,0 +1,12 @@
+node_modules/
+session/
+temp/
+cache/
+media/
+downloads/
+voices/
+phonk/
+*.log
+*.zip
+.env
+*-player-script.js
